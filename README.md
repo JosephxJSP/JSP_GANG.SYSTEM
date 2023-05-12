@@ -65,3 +65,4 @@
   - export เช็คแก๊งผ่าน cl/sv
   - Config.database
   - เปิด/ปิดการรใช้งานระบบ Job
+  - Discord Webhook
